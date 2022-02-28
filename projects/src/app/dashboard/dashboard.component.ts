@@ -38,7 +38,7 @@ ngOnInit(): void {
 }
 
 logout() {
-  localStorage.removeItem("currentAcno")
+ 
 
   localStorage.removeItem("currentUserName")
 
